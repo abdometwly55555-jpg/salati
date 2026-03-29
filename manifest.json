@@ -12,14 +12,16 @@
   "dir": "rtl",
   "icons": [
     {
-      "src": "https://abdometwly55555-jpg.github.io/salati/icon.png",
+      "src": "https://abdometwly55555-jpg.github.io/salati/icon-192.png",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any"
     },
     {
-      "src": "https://abdometwly55555-jpg.github.io/salati/icon.png",
+      "src": "https://abdometwly55555-jpg.github.io/salati/icon-512.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "maskable"
     }
   ]
 }
